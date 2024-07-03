@@ -1,4 +1,4 @@
-# Twinmo: LinkedIn Web Scraping Assignment
+# Twinmo: LinkedIn Web Scraping
 
 ### Overview
 This project is designed to scrape job listings from LinkedIn for positions that require LabVIEW skills, specifically focusing on companies in Michigan, Illinois, and California. The goal is to identify companies looking for LabVIEW expertise, which may indicate a need for test automation in their operations. This project targets consumer products and consumer electronics companies, excluding aerospace, defense, and semiconductor firms.
