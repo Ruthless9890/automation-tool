@@ -11,9 +11,12 @@ def main():
     all_jobs = []
     for state in STATES:
         jobs = scraper.search_jobs('LabVIEW', state)
+        print(f"Jobs found in {state}: {len(jobs)}")
+        for job in jobs:
+            print(job)  # Print each job's details to verify the data
         all_jobs.extend(jobs)
     
-    # filter out ignored industries
+    # Filter out unwanted industries
     filtered_jobs = [job for job in all_jobs if not any(industry in job['Company'] for industry in ['Aerospace', 'Defense', 'Semiconductor'])]
     
     save_to_csv(filtered_jobs, 'labview_jobs.csv')
