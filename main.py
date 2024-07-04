@@ -1,6 +1,6 @@
 # main script
 
-from linkedin_scraper import LinkedInScraper
+from scraper import LinkedInScraper
 from config import LINKEDIN_USERNAME, LINKEDIN_PASSWORD, STATES
 from utils import save_to_csv
 
