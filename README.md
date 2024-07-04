@@ -8,3 +8,5 @@ State-specific Job Search: Focuses on job listings in Michigan, Illinois, and Ca
 Company Identification: Extracts and lists companies that are hiring for LabVIEW positions.
 Industry Filtering: Ignores job listings from aerospace, defense, and semiconductor companies to focus on consumer products and electronics sectors.
 Data Storage: Saves the scraped data into a CSV file for easy analysis and further use.
+
+**Ragavan Arivazhagan**
