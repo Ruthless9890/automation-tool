@@ -1,3 +1,5 @@
 selenium
-chromedriver
-pandas
+chromedriver/webdriver setup https://developer.chrome.com/docs/chromedriver/get-started https://www.selenium.dev/
+os
+beautifulsoup
+csv
