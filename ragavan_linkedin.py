@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
 # Your LinkedIn credentials
-linkedin_username = "ragavan.ims@gmail.com"
-linkedin_password = "Speed=MSDhoni07"
+linkedin_username = "ENTER YOUR USERNAME"
+linkedin_password = "ENTER YOUR PASSWORD"
 
 # Path to your ChromeDriver executable
 driver = webdriver.Chrome()
