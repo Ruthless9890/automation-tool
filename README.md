@@ -17,4 +17,4 @@ Data Storage: Saves the scraped data into a CSV file for easy analysis and furth
 * You will get a CSV file with the top 100 jobs, convert it at this link: https://www.convertcsv.com/csv-viewer-editor.htm#google_vignette
 * Use the top 100 jobs for your convenience
 
-**Ragavan Arivazhagan**
+**By Ragavan**
