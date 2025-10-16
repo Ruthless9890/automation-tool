@@ -1,4 +1,4 @@
-# Twinmo: LinkedIn Web Scraping
+# Twinmo: Automated Job Data Collection
 
 ### Overview
 This project is designed to analyze job listings from LinkedIn for positions that require LabVIEW skills. The goal is to identify companies looking for LabVIEW expertise, which may indicate a need for test automation in their operations. This project targets consumer products and consumer electronics companies, excluding aerospace, defense, and semiconductor firms.
